@@ -1,6 +1,5 @@
  Olá, eu sou a Rudimilha 👩‍💻✨
 
-https://imagur.org/wp-content/uploads/2026/04/IMG-20250904-WA0217-2.jpg
 
 Sou profissional na área de gestão de documentos e processos, atuando na CETEFE 📂  
 Tenho interesse em tecnologia e estou em constante evolução na área de desenvolvimento e análise de sistemas 
