@@ -16,7 +16,7 @@ Tenho interesse em tecnologia e estou em constante evolução na área de desenv
 
 
   📚 Atualmente estudando
-- 💻 Linguagem de Programação  
+- 💻 C# iniciando estudos  
 - 🗄️ Banco de Dados  
 - 🧠 Estrutura de Dados  
 - 🌐 Desenvolvimento Web  
