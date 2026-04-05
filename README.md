@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/your-image.png" width="150px" align="right">
 
 Sou profissional na área de gestão de documentos e processos, atuando na CETEFE 📂  
-Tenho interesse em tecnologia e estou em constante evolução na área de desenvolvimento e análise de sistemas 🚀
+Tenho interesse em tecnologia e estou em constante evolução na área de desenvolvimento e análise de sistemas 
 
 
 
@@ -35,6 +35,5 @@ Tenho interesse em tecnologia e estou em constante evolução na área de desenv
 - 📧 E-mail: [rudimilhasantos22@gmail.com]
 
 - 💬 Frase que me define
-<p align="center">
-  Não sou perfeita, mas sou real — e estou em constante evolução. ✨
+<p align="center">Não sou perfeita, mas sou real — e estou em constante evolução. ✨
 </p>
