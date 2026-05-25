@@ -1,0 +1,24 @@
+# [Nome do Jogo]
+
+## 📝 Descrição do Projeto
+[Escreva 2 ou 3 linhas explicando o que é o seu jogo e qual o objetivo do jogador].
+
+---
+
+## 🛠️ Desenvolvimento do Projeto
+
+### Parte 1: Planejamento e Estruturação Inicial
+* [Explique como foi o começo. Ex: Escolha do tema, desenho do fluxo do jogo no papel e criação das primeiras classes/variáveis em C#].
+
+### Parte 2: Implementação e Lógica do Jogo
+* [Explique o que você programou. Ex: Criação dos laços de repetição (while/for), condicionais (if/else) para regras do jogo, e sistema de pontuação].
+
+### Parte 3: Polimento, Testes e Entrega Final
+* [Explique a finalização. Ex: Ajuste de bugs que travavam o jogo, organização do código e criação deste repositório].
+
+---
+
+## 🚀 Como Executar o Jogo
+1. Baixe ou clone este repositório.
+2. Abra a pasta no terminal/prompt de comando.
+3. Digite o comando: `dotnet run`
